@@ -1,4 +1,4 @@
-# project1
+# React Feed
 
 # ToDo
 - [ ] Research Server side rendering `(1h)`
